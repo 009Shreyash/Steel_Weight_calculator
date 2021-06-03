@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SteelWeightCalculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="choose_steel">Choose Steel</string>
+    <string name="steel_diameter">Diameter of Rainforcement :</string>
+    <string name="steel_Diameter_wise_weight">Rainforcement weight :</string>
+    <string name="steel_length">Steel Length :</string>
+    <string name="steel_weight">Selected Steel total weight </string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="tv_kg"><u>Kg</u></string>
+
+
+    <string-array name="Steel_array">
+        <item>Choose different diametered wire </item>
+        <item> 8Ø (Steel Wire)</item>
+        <item>10Ø (Steel Wire)</item>
+        <item>16Ø (Steel Wire)</item>
+        <item>20Ø (Steel Wire)</item>
+        <item>24Ø (Steel Wire)</item>
+        <item>32Ø (Steel Wire)</item>
+        <item>40Ø (Steel Wire)</item>
+        <item>48Ø (Steel Wire)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_of_steel">No of Steel :</string>
+    <string name="no_of_beam">No of Beam :</string>
+    <string name="tv_total_weight">0</string>
+
+</resources>
